@@ -1,6 +1,4 @@
-Here's a **complete, ready-to-use `README.md`** with placeholders replaced for easy deployment:
 
-```markdown
 # Web Data Scraper
 
 ## Overview
@@ -81,10 +79,6 @@ class WebScraper:
 ## License
 MIT © 2023 [Your Name]  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
----
-📫 **Contact**: your.email@example.com  
-🔗 **Live Demo**: [https://yourusername.github.io/web-data-scraper](https://yourusername.github.io/web-data-scraper)
 ```
 
 ### How to Use:
@@ -100,4 +94,3 @@ MIT © 2023 [Your Name]
 - License badge
 - Contact/demo links
 
-Let me know if you'd like me to add a full Python script or Jupyter notebook example!

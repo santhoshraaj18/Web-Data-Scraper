@@ -77,20 +77,4 @@ class WebScraper:
 ```
 
 ## License
-MIT © 2023 [Your Name]  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-```
-
-### How to Use:
-1. Save as `README.md` in your project root
-2. Create a `scraper.py` with the sample code above
-3. Replace placeholders (`yourusername`, `Your Name`, email, etc.)
-
-### Includes:
-- Installation instructions
-- Usage examples
-- Sample output
-- Ready-to-run code snippet
-- License badge
-- Contact/demo links
-
+MIT © 2025
